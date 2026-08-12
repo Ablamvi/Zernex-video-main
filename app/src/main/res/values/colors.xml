@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="zernex_orange">#FF6B35</color>
+    <color name="zernex_cyan">#00D9FF</color>
+    <color name="zernex_bg">#0F0F1A</color>
+    <color name="ic_launcher_background">#0F0F1A</color>
+</resources>
