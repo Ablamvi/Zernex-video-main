@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Zernex Video</string>
+    <string name="decoder_hw_plus">Décodage Matériel HW+</string>
+    <string name="audio_boost">Audio Booster +200%</string>
+</resources>
